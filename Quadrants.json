@@ -1,0 +1,35 @@
+{
+    "scenario": "Monitoraggio evento in tempo reale",
+    "quadrants": {
+      "Q1": {"pedestrian_density": 20, "vehicle_density": 10, "air_quality": 50, "pollution_risk": 3, "safety_risk": 2},
+      "Q2": {"pedestrian_density": 70, "vehicle_density": 20, "air_quality": 80, "pollution_risk": 6, "safety_risk": 5},
+      "Q3": {"pedestrian_density": 90, "vehicle_density": 30, "air_quality": 90, "pollution_risk": 7, "safety_risk": 8},
+      "Q4": {"pedestrian_density": 40, "vehicle_density": 15, "air_quality": 60, "pollution_risk": 4, "safety_risk": 3},
+      "Q5": {"pedestrian_density": 10, "vehicle_density": 5, "air_quality": 40, "pollution_risk": 2, "safety_risk": 1},
+  
+      "Q6": {"pedestrian_density": 15, "vehicle_density": 5, "air_quality": 45, "pollution_risk": 2, "safety_risk": 1},
+      "Q7": {"pedestrian_density": 60, "vehicle_density": 25, "air_quality": 70, "pollution_risk": 5, "safety_risk": 4},
+      "Q8": {"pedestrian_density": 85, "vehicle_density": 40, "air_quality": 85, "pollution_risk": 7, "safety_risk": 6},
+      "Q9": {"pedestrian_density": 50, "vehicle_density": 20, "air_quality": 65, "pollution_risk": 4, "safety_risk": 3},
+      "Q10": {"pedestrian_density": 30, "vehicle_density": 10, "air_quality": 50, "pollution_risk": 3, "safety_risk": 2},
+  
+      "Q11": {"pedestrian_density": 10, "vehicle_density": 5, "air_quality": 40, "pollution_risk": 2, "safety_risk": 1},
+      "Q12": {"pedestrian_density": 45, "vehicle_density": 15, "air_quality": 60, "pollution_risk": 4, "safety_risk": 3},
+      "Q13": {"pedestrian_density": 70, "vehicle_density": 30, "air_quality": 75, "pollution_risk": 6, "safety_risk": 5},
+      "Q14": {"pedestrian_density": 90, "vehicle_density": 35, "air_quality": 85, "pollution_risk": 8, "safety_risk": 8},
+      "Q15": {"pedestrian_density": 20, "vehicle_density": 10, "air_quality": 55, "pollution_risk": 3, "safety_risk": 2},
+  
+      "Q16": {"pedestrian_density": 25, "vehicle_density": 10, "air_quality": 50, "pollution_risk": 3, "safety_risk": 2},
+      "Q17": {"pedestrian_density": 55, "vehicle_density": 20, "air_quality": 70, "pollution_risk": 5, "safety_risk": 4},
+      "Q18": {"pedestrian_density": 80, "vehicle_density": 25, "air_quality": 80, "pollution_risk": 6, "safety_risk": 7},
+      "Q19": {"pedestrian_density": 65, "vehicle_density": 20, "air_quality": 75, "pollution_risk": 5, "safety_risk": 4},
+      "Q20": {"pedestrian_density": 35, "vehicle_density": 15, "air_quality": 60, "pollution_risk": 4, "safety_risk": 3},
+  
+      "Q21": {"pedestrian_density": 15, "vehicle_density": 5, "air_quality": 40, "pollution_risk": 2, "safety_risk": 1},
+      "Q22": {"pedestrian_density": 40, "vehicle_density": 15, "air_quality": 60, "pollution_risk": 4, "safety_risk": 3},
+      "Q23": {"pedestrian_density": 75, "vehicle_density": 30, "air_quality": 85, "pollution_risk": 6, "safety_risk": 6},
+      "Q24": {"pedestrian_density": 95, "vehicle_density": 40, "air_quality": 90, "pollution_risk": 8, "safety_risk": 9},
+      "Q25": {"pedestrian_density": 50, "vehicle_density": 25, "air_quality": 70, "pollution_risk": 5, "safety_risk": 4}
+    }
+  }
+  
